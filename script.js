@@ -1,6 +1,6 @@
 
 function countdown() {
-    const targetDate = new Date("2025-03-25T00:00:00").getTime(); // Set your target date
+    const targetDate = new Date("2025-03-30T00:00:00").getTime(); // Set your target date
             
     function updateCountdown() {
         const now = new Date().getTime();
